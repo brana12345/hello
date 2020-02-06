@@ -1,2 +1,2 @@
 # hello
-test
+This is an email with four blocks.
